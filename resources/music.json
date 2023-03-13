@@ -1,0 +1,166 @@
+{ "songs": 
+    [ 
+        { 
+            "title": "On time", 
+            "artist": "Metro boomin", 
+            "duration": 100, 
+            "album": "HEROES & VILLAINS" 
+        },
+        { 
+            "title": "Dur d'y croire", 
+            "artist": "Salif", 
+            "duration": 225, 
+            "album": "Tous ensemble, chacun pour soi" 
+        },
+        { 
+            "title": "Albiceleste", 
+            "artist": "Jazzy Bazz", 
+            "duration": 227, 
+            "album": "Memoria" 
+        },
+        { 
+            "title": "CERCLE VICIEUX", 
+            "artist": "Deen Burbigo", 
+            "duration": 120, 
+            "album": "Cercle vertueux" 
+        },
+        { 
+            "title": "Too many nights", 
+            "artist": "Metro Boomin, Future, Don Toliver", 
+            "duration": 199, 
+            "album": "HEROES & VILLAINS" 
+        },
+        { 
+            "title": "MIDDLE CHILD", 
+            "artist": "j.cole", 
+            "duration": 212, 
+            "album": "MIDDLE CHILD" 
+        },
+        { 
+            "title": "Formule 1", 
+            "artist": "Stavo, Alpha Wann", 
+            "duration": 174, 
+            "album": "Formule 1" 
+        },
+        { 
+            "title": "AZNVR - une minute de musique", 
+            "artist": "Luv Resval", 
+            "duration": 238, 
+            "album": "AZNVR (une minute de musique)" 
+        },
+        { 
+            "title": "Superheroes (Heroes & Vilains)[with Future]", 
+            "artist": "Metro Boomin, Future, Chris Brown", 
+            "duration": 183, 
+            "album": "HEROES & VILLAINS" 
+        },
+        { 
+            "title": "Nek O", 
+            "artist": "S-Crew, Nekfeu", 
+            "duration": 168, 
+            "album": "SZR 2001" 
+        },
+        { 
+            "title": "Prendre le large", 
+            "artist": "Salif", 
+            "duration": 244, 
+            "album": "Prolongation" 
+        },
+        { 
+            "title": "Compte les hommes", 
+            "artist": "Nekfeu, Alpha Wann", 
+            "duration": 250, 
+            "album": "Les étoiles vagabondes: expansion" 
+        },
+        { 
+            "title": "Raindrops(Insane)[with Travis Scott]", 
+            "artist": "Metro Boomin, Travis Scott", 
+            "duration": 183, 
+            "album": "HEROES & VILLAINS"
+        },
+        { 
+            "title": "Raindrops(Insane)[with Travis Scott]", 
+            "artist": "Metro Boomin, Travis Scott", 
+            "duration": 183, 
+            "album": "HEROES & VILLAINS"
+        },
+        { 
+            "title": "AMBER", 
+            "artist": "Zola", 
+            "duration": 181, 
+            "album": "AMBER"
+        },
+        { 
+            "title": "Devil May Cry", 
+            "artist": "Rowjay, Alpha Wann", 
+            "duration": 169, 
+            "album": "Carnaval de Finesse 2"
+        },
+        { 
+            "title": "Mes jambes", 
+            "artist": "JeanJass", 
+            "duration": 119, 
+            "album": "Goldman"
+        },
+        { 
+            "title": "Metro Spider (with Young Thug)", 
+            "artist": "Metro Boomin, Young Thug", 
+            "duration": 176, 
+            "album": "HEROES & VILLAINS"
+        },
+        { 
+            "title": "Metro Spider (with Young Thug)", 
+            "artist": "Metro Boomin, Young Thug", 
+            "duration": 176, 
+            "album": "HEROES & VILLAINS"
+        },
+        { 
+            "title": "Sublime", 
+            "artist": "Disiz", 
+            "duration": 155, 
+            "album": "L'Amour"
+        },
+        { 
+            "title": "3AM in Orleans", 
+            "artist": "A$AP ANT, Curren$y", 
+            "duration": 133, 
+            "album": "Lil Black Jean Jacket 3"
+        },
+        { 
+            "title": "OJIISAMA", 
+            "artist": "Deen Burbigo", 
+            "duration": 126, 
+            "album": "OG SAN"
+        },
+        { 
+            "title": "OJIISAMA", 
+            "artist": "Deen Burbigo", 
+            "duration": 126, 
+            "album": "OG SAN"
+        },
+        { 
+            "title": "Around Me", 
+            "artist": "Metro Boomin, Don Toliver", 
+            "duration": 191, 
+            "album": "HEROES & VILLAINS"
+        },
+        { 
+            "title": "Elément 115", 
+            "artist": "Jazzy Bazz, Nekfeu", 
+            "duration": 218, 
+            "album": "Memoria"
+        },
+        { 
+            "title": "Trilogie", 
+            "artist": "S-Crew", 
+            "duration": 175, 
+            "album": "SZR 2001"
+        },
+        { 
+            "title": "Esquimaux", 
+            "artist": "Nekfeu, Népal", 
+            "duration": 204, 
+            "album": "Cyborg"
+        }
+        ] 
+}
